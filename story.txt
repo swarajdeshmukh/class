@@ -1,2 +1,6 @@
 season: 1
 Lab and Laby ka college me first day hai.
+
+season: 2
+Lab and Laby ka second year hai dono ab bohot ache dost hai.
+
