@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px 0px 20px 0px;
+}
+
+#header{
+    background-color: rgb(31, 31, 49);
+    color: white;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#header h1{
+    padding-bottom: 20px;
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#about-section{
+    height: 150px;
+    margin: 20px 100px 20px 100px;
+    background-color: rgb(201, 255, 255);
+}
+
+
+#about-section p{
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+}
+
+#education{
+    height: 250px;
+    margin: 10px 100px 20px 100px;
+    background-color: rgb(114, 233, 233);
+}
+
+#education p{
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+    background-color: aliceblue;
+    margin: 10px 100px 10px 100px;
+}
+
+#skills{
+    height: 300px;
+    margin: 10px 100px 20px 100px;
+    background-color: rgb(221, 189, 85);
+}
+ 
+
+#skills p{
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+    background-color: aliceblue;
+    margin: 10px 100px 10px 100px;
+}
+
+#project{
+    height: 300px;
+    margin: 10px 100px 20px 100px;
+    background-color: rgb(205, 155, 238);
+}
+ 
+#project p{
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+    background-color: aliceblue;
+    margin: 10px 100px 10px 100px;
+}
+
+#contact{
+    height: 300px;
+    margin: 10px 100px 20px 100px;
+    background-color: rgb(184, 243, 228);
+}
+ 
+
+#contact p{
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+    background-color: aliceblue;
+    margin: 10px 100px 10px 100px;
+}
+
+#footer{
+    background-color: rgb(31, 31, 49);
+    color: white;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
