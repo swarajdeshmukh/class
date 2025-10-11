@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+main {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+main section {
+  height: 50%;
+  width: 50%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+main .btn1 {
+  padding: 20px 50px;
+  border: none;
+  background-color: red;
+  border-radius: 30px;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
+main .btn2 {
+  padding: 20px 50px;
+  border: none;
+  background-color: yellow;
+  border-radius: 30px;
+  color: black;
+  font-size: 20px;
+  cursor: pointer;
+}
+main .btn3 {
+  padding: 20px 50px;
+  border: none;
+  background-color: green;
+  border-radius: 30px;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */
